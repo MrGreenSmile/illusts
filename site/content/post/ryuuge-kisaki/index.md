@@ -6,7 +6,7 @@ image: ryuuge-kisaki-original.webp
 ---
 - - -
 
-![by dandan](./128628758_p1.png)
+![by dandan](./post/ryuuge-kisaki/128628758_p1.png)
 
 source : <https://www.pixiv.net/artworks/128628758>
 
@@ -16,7 +16,7 @@ source : <https://www.pixiv.net/artworks/128628758>
 
 - - -
 
-![by dandan](./128521421_p1.png)
+![by dandan](./post/ryuuge-kisaki/128521421_p1.png)
 
 source : <https://www.pixiv.net/artworks/128521421>
 
