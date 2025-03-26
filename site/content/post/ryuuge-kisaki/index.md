@@ -1,15 +1,19 @@
 ---
 title: Ryuuge Kisaki
 date: 2025-03-26T14:26:49.179Z
-description: Ryuuge Kisaki by dandan
+description: Blue Archive
 image: 128628758_p1.png
 ---
 source : <https://www.pixiv.net/artworks/128628758>
 
-parody : Blue Archive
-
-character : Ryuuge Kisaki(Blue Archive)
-
-\#side view#double bun hair#butterfly#clothes on shoulder#tea cub#black qipao#sleevless
+#side view#double bun hair#butterfly#clothes on shoulder#tea cub#black qipao#sleevless
 
 2025/03/26
+
+![image](./128521421_p1.png)
+
+source : <https://www.pixiv.net/artworks/128521421>
+
+#woke up#long sleeves#loosened hair#opened shirt#blanket#half naked#butterfly
+
+2025/03/23
