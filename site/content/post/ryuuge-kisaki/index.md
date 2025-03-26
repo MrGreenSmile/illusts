@@ -1,7 +1,12 @@
 ---
-title: Ryuuge Kisaki
+title: Blue Archive/Ryuuge Kisaki
 date: 2025-03-26T14:26:49.179Z
-description: Blue Archive
+description: >-
+  Character of blue archive.
+
+  Student and school president of shanghaijing. Her hobbies are disguise and acting.
+
+  She had have Health problem caused by Shintani Kai, pre-president of Eastern Alchemy Society, but dealt with herself.
 image: ryuuge-kisaki-original.webp
 ---
 - - -
