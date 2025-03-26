@@ -5,7 +5,8 @@ description: Blue Archive
 image: ryuuge-kisaki-original.webp
 ---
 - - -
-![image](./128628758_p1.png)
+
+![by dandan](./128628758_p1.png)
 
 source : <https://www.pixiv.net/artworks/128628758>
 
@@ -15,7 +16,7 @@ source : <https://www.pixiv.net/artworks/128628758>
 
 - - -
 
-![image](./128521421_p1.png)
+![by dandan](./128521421_p1.png)
 
 source : <https://www.pixiv.net/artworks/128521421>
 
